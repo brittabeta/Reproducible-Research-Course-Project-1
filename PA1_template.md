@@ -129,7 +129,7 @@ ggplot(data = avsteps, aes(interval, average.steps)) +
              title = "Average Daily Activity Pattern")
 ```
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)](https://github.com/brittabeta/Reproducible-Research-Course-Project-1/blob/master/instructions_fig/activity_pattern.png)
+![plot of chunk unnamed-chunk-6](https://github.com/brittabeta/Reproducible-Research-Course-Project-1/blob/master/instructions_fig/activity_pattern.png)
 
 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
