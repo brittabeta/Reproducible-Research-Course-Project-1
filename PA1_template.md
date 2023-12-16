@@ -129,7 +129,7 @@ ggplot(data = avsteps, aes(interval, average.steps)) +
              title = "Average Daily Activity Pattern")
 ```
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)](https://github.com/brittabeta/Reproducible-Research-Course-Project-1/blob/master/instructions_fig/activity_pattern.png)
 
 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
@@ -276,7 +276,7 @@ ggplot(data = mrgsteps, aes(total.steps)) +
 ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 ```
 
-![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11-1.png)
+![plot of chunk unnamed-chunk-11](https://github.com/brittabeta/Reproducible-Research-Course-Project-1/blob/master/instructions_fig/histogram_after.png)
 
 5. Calculate and report the mean and median total number of steps taken per day. 
 
@@ -353,6 +353,6 @@ ggplot(data = avmrg, aes(interval, av.steps, color = day)) +
              title = "Average Daily Activity Pattern")
 ```
 
-![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15-1.png)
+![plot of chunk unnamed-chunk-15](https://github.com/brittabeta/Reproducible-Research-Course-Project-1/blob/master/instructions_fig/activity_pattern_weekdays.png)
 
 Thank you!
