@@ -92,7 +92,7 @@ ggplot(data = adsteps, aes(total.steps)) +
 ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 ```
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
+![plot of chunk unnamed-chunk-4](https://github.com/brittabeta/Reproducible-Research-Course-Project-1/blob/master/instructions_fig/histogram_before.png)
 
 3. Calculate and report the mean and median of the total number of steps taken per day
 
